@@ -1,0 +1,34 @@
+{
+  "name": "react-chart-js-doughnut-chart",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/react-dom": "18.0.10",
+    "@types/styled-components": "5.1.26",
+    "chart.js": "4.2.0",
+    "chartjs-plugin-labels": "1.1.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
