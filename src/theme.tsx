@@ -1,5 +1,5 @@
 // Theme colors for the application
-import type { Theme } from "./types";
+import type { Theme } from "./typings/types";
 
 export const theme: Theme = {
   borderColor: "rgba(255, 255, 255, 1)",

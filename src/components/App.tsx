@@ -10,7 +10,7 @@ import {
   getElementAtEvent
 } from "react-chartjs-2";
 import { Container } from "./Container";
-import { theme } from "./theme";
+import { theme } from "../theme";
 // import type { Data } from "./types";
 // import { rgbaStringToObject, areArraysIdentical } from "./custom-functions";
 // import "chartjs-plugin-labels";

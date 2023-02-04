@@ -1,4 +1,4 @@
-import { ContainerProps } from "./types";
+import { ContainerProps } from "../typings/types";
 import styled from "styled-components";
 
 // Create styled container component
